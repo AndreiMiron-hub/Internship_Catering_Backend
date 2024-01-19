@@ -4,7 +4,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/AndreiMiron-hub/Internship_Catering_Backend">
-    <img src="ReadMeImages/logo.png" alt="Logo" width="320" height="160">
+    <img src="ReadMeImages/logo.png" alt="Logo" width="200" height="200">
   </a>
 
   <h3 align="center">Catering system API</h3>
@@ -47,43 +47,33 @@
 
 <ol>
 <ul align="row">
-    <img src="ReadMeImages/aspnet-logo.png" alt="Logo" width="50" height="50"> 
     ASP.NET on .NET 6 
 </ul>
 <ul align="row">
-    <img src="ReadMeImages/bitbucket-logo.png" alt="Logo" width="50" height="50">
     BitBucket
 </ul>
 <ul>
-    <img src="ReadMeImages/xunit-logo.png" alt="Logo" width="50" height="50">
     Moq and xUnit
 </ul>
 <ul>
-    <img src="ReadMeImages/lucidchart-logo.png" alt="Logo" width="50" height="50">
     Lucidchart
 </ul>
 <ul>
-    <img src="ReadMeImages/ef-logo.png" alt="Logo" width="50" height="50">
     EntityFramework
 </ul>
 <ul>
-    <img src="ReadMeImages/sqlserver-logo.png" alt="Logo" width="50" height="50">
     SQL Server
 </ul>
 <ul>
-    <img src="ReadMeImages/ssms-logo.png" alt="Logo" width="50" height="50">
     SQL Server ManagementStudio (SSMS).
 </ul>
 <ul>
-    <img src="ReadMeImages/swagger-logo.png" alt="Logo" width="50" height="50">
     Swagger 
 </ul>
 <ul>
-    <img src="ReadMeImages/postman-logo.png" alt="Logo" width="50" height="50">
     Postman
 </ul>
 <ul>
-    <img src="ReadMeImages/jwt-logo.png" alt="Logo" width="50" height="50">
     JWT
 </ul>
 </ol>
